@@ -8,7 +8,3 @@
 ![MySQL, PostgreSQL, SQLite, MongoDB, Supabase, Vercel, Docker, AWS, Azure, Linux, Ubuntu](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,supabase,vercel,docker,aws,azure,linux,ubuntu)
 
 ---
-
-#### Achievements
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sgsringo&theme=radical)
